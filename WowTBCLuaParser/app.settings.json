@@ -1,0 +1,13 @@
+{
+  "Server": {
+    "Name": "Karazhan",
+    "Faction": "Horde"
+  },
+  "Output": {
+    "Filename": "WowTbcCensusOutput.txt"
+  },
+  "Dev": { // Do not change these
+    "DatabaseKey": "CensusPlus_Database.Servers",
+    "luaFile": "CensusPlus.lua"
+  }
+}
